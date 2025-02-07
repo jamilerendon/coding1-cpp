@@ -4,7 +4,7 @@
 
 // this is the start of our program.
 // our program starts here.
-
+/*
 int main()
 {
     std::cout << "\nHello World!\n";
@@ -28,4 +28,4 @@ int main()
     // add the second half the line.
     std::cout << "We are going to" << destination << ".\n";
     
-}
+}*/

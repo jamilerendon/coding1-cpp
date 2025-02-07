@@ -1,0 +1,4 @@
+﻿  varlogic.cpp
+C:\Users\jamil\Github\coding1-cpp\ConsoleApplication1\varlogic.cpp(22,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jamil\Github\coding1-cpp\ConsoleApplication1\varlogic.cpp(26,21): warning C4129: 'N': unrecognized character escape sequence
+  ConsoleApplication1.vcxproj -> C:\Users\jamil\Github\coding1-cpp\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
